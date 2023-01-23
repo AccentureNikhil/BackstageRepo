@@ -1,0 +1,12 @@
+site_name: 'VW.AC Docs'
+site_description: 'Test documentation of VW.AC'
+repo_url: https://github.com/AccentureNikhil/BackstageRepo
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - VW.AC Docs:
+    - Welcome to VW.AC: 'vwdocs/welcome-to-VW.AC.md'
+    - Concepts, Vehicles & Devices: 'vwdocs/concepts-vehicles-and-devices.md'
