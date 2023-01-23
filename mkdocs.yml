@@ -8,5 +8,5 @@ plugins:
 
 nav:
   - VW.AC Docs:
-    - Welcome to VW.AC: 'vwdocs/welcome-to-VW.AC.md'
-    - Concepts, Vehicles & Devices: 'vwdocs/concepts-vehicles-and-devices.md'
+    - Welcome to VW.AC: 'welcome-to-VW.AC.md'
+    - Concepts, Vehicles & Devices: 'concepts-vehicles-and-devices.md'
